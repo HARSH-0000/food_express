@@ -1,0 +1,16 @@
+# Sensitive files
+
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
